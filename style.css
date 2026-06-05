@@ -828,7 +828,7 @@ body.menu-open {
 .about-card-info p {
   margin-bottom: 22px;
   color: rgba(23, 22, 21, 0.72);
-  font-size: 17px;
+  font-size: 22px;
   line-height: 1.75;
 }
 
@@ -839,7 +839,6 @@ body.menu-open {
 
 .about-mini div {
   padding: 20px 0;
-  border-bottom: 1px solid rgba(111, 38, 49, 0.12);
 }
 
 .about-mini strong {
